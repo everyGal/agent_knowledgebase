@@ -41,24 +41,7 @@ Updated: (not yet populated) | Total: 0 pages
 ## Comparisons (0)
 ```
 
-Create `HANDOFF.md` with this content (only if it doesn't already exist):
-
-```markdown
-# Handoff
-Date: (initial setup)
-
-## Session Summary
-Knowledge base initialized. No sources ingested yet.
-
-## Wiki Stats
-Sources: 0 | Entities: 0 | Concepts: 0 | Comparisons: 0 | Total: 0
-
-## Pending
-(none)
-
-## Active Research Threads
-(none)
-```
+Create `HANDOFF.md` (only if it doesn't already exist) by copying the template at `${CLAUDE_PLUGIN_ROOT}/templates/handoff.md`. Read it and write it to `./HANDOFF.md`.
 
 ## Step 4: Copy Wiki Schema
 

@@ -117,6 +117,8 @@ Adding a format = one extraction script + one line in the compile command.
 
 ## Architecture
 
+![KB Plugin Flow](kb-plugin-flow.svg)
+
 ```
 Plugin (shared)          →  Project (per-project)
   hooks/kb-status             raw/ + wiki/ + manifest

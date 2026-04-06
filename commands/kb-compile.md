@@ -1,6 +1,6 @@
 ---
 description: Compile new or updated source files from raw/ into structured wiki pages. Dispatches background agents for extraction and compilation.
-allowed-tools: Bash(python3:*), Bash(shasum:*), Bash(cp:*), Bash(chmod:*), Bash(command:*), Bash(mkdir:*), Bash(rm:*), Bash(git add:*), Bash(git commit:*), Bash(git status:*), Read, Write, Edit, Glob, Grep, Agent
+allowed-tools: Bash(python3:*), Bash(shasum:*), Bash(cp:*), Bash(command:*), Bash(mkdir:*), Bash(rm:*), Bash(git add:*), Bash(git commit:*), Bash(git status:*), Read, Write, Edit, Glob, Grep, Agent
 ---
 
 # Compile Knowledge Base Sources
